@@ -69,7 +69,7 @@ to `#{b => 2}`, the context will be:
 - `data`: an Erlang map which will be merged into the template context during
   rendering.
 - `mustache_options`: a set of
-  [mustache](https://github.com/galdor/erl-mustache) template options; they
+  [mustache](https://github.com/exograd/erl-mustache) template options; they
   will be merged with default options.
 
 # Contact
