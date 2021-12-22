@@ -73,5 +73,4 @@ to `#{b => 2}`, the context will be:
   will be merged with default options.
 
 # Contact
-If you find a bug or have any question, feel free to open a GitHub issue or to
-contact me [by email](mailto:khaelin@gmail.com).
+If you find a bug or have any question, feel free to open a GitHub issue.
